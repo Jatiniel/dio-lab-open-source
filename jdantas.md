@@ -4,6 +4,8 @@ Sou apaixonado por tecnologia, dados e desenvolvimento de sistemas. Atualmente, 
 
 Estou estudando e práticando desenvolvidos em **Python**, **MySQL**, e **Análise de Dados**, e estou sempre em busca de aprender mais e contribuir com a comunidade!
 
+Um dos motivos por que estou matriculado nesta plataforma, em busca de conhecimento.
+
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
