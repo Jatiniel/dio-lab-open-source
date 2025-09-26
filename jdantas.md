@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia, dados e desenvolvimento de sistemas. Atualmente, estou estudando **Bacharelado em Ciência e Tecnologia** 5º semestre, além de expandir meus conhecimentos em **Python**, **SQL**, e ferramentas de visualização de dados como Power BI. 
 
-Tenho projetos práticos desenvolvidos em **Python**, **MySQL**, e **Análise de Dados**, e estou sempre em busca de aprender mais e contribuir com a comunidade!
+Estou estudando e práticando desenvolvidos em **Python**, **MySQL**, e **Análise de Dados**, e estou sempre em busca de aprender mais e contribuir com a comunidade!
 
 ---
 
